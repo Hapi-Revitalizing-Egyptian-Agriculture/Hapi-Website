@@ -1,7 +1,7 @@
 
 #  HAPI-Website 🌱
 
-Welcome to the **HAPI Website**. This project is a key part of our graduation project [HAPI](https://github.com/your-organization). As the front-end developer, I have developed a responsive, bilingual (Arabic and English) website using HTML, CSS, JavaScript, TypeScript, and React.js, with Axios for seamless backend integration. 
+Welcome to the **HAPI Website**. This project is a key part of our graduation project [HAPI](https://github.com/Hapi-Revitalizing-Egyptian-Agriculture). As the front-end developer, I have developed a responsive, bilingual (Arabic and English) website using HTML, CSS, JavaScript, TypeScript, and React.js, with Axios for seamless backend integration. 
 
 ##  Website Overview
 
