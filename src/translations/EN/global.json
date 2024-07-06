@@ -1,0 +1,71 @@
+{
+    "NavBar":{
+        "link1":"Home",
+        "link2":"Library",
+        "link3":"About us",
+        "button":"Get started"  
+    },
+    "Home":{
+        "preview":"Watch Preview",
+        "offer":"we offer you",
+        "irr":"IRRIGATION & FERTILIZATION OPTIMIZATION",
+        "recommend":"Crop recommendation",
+        "disease":"Disease detection",
+        "library":"COMPREHENSIVE LIBRARY",
+        "vision":"Our vision",
+        "visionp":"To envision an agricultural renaissance in Egypt, where cutting-edge technologies empower farmers, enhance productivity, ensure food sovereignty, and foster economic prosperity across communities"
+    },
+    "Scroll":{
+        "plans":"our plans",
+        "Free":"free",
+        "guest":"guest",
+        "limit1":"detection of diseases only",
+        "price2":"1500LE",
+        "basic":"baisc",
+        "limit21":"Up to 5 farmers per land.",
+        "limit22":"Installation of hardware devices.",
+        "price3":"2500 LE",
+        "pro":"pro",
+        "limit31":"Up to 10 farmers per land.",
+        "limit32":"Installation of hardware devices.",
+        "limit33":"Landowner Training",
+        "price4":"4500 LE",
+        "ultimate":"ultimate",
+        "limit41":"Up to 50 farmers per land.",
+        "limit42":"Installation of hardware devices.",
+        "limit43":"Landowner & farmers Training.",
+        "button":"choose plan",
+        "button1":"download"
+    },
+    "Footer":{
+        "about":"About us",
+        "contact":"contact us",
+        "faq":"FAQ",
+        "policy":"privacy policy",
+        "follow":"follow for more",
+        "phone":"2 000 000 000 00"
+    },
+    "About":{
+        "story":"our story",
+        "storyp1":" Egypt, known as 'the gift of the Nile' has a rich agricultural history dating back thousands of years. However, modern agriculture in Egypt faces numerous challenges, including Water scarcity, unpredictable weather patterns, soil degradation, pests and diseases. These challenges threaten food security and agriculture sustainability in the region.",
+        "storyp2":"With our knowledge and passion for change, we developed an agricultural platform integrating advanced hardware and software solutions, from smart irrigation to disease detection. Our app offers real-time insights and personalized recommendations to boost productivity and sustainability for farmers. As we refine and expand, our mission remains steadfast: to innovate, foster resilience, and empower Egyptian farmers for a brighter future",
+        "faqp":"GOT QUESTIONS? CHECK OUT OUR FAQ",
+        "q1":"What does HAPI mean?",
+        "a1":"Hapi, in ancient Egyptian mythology he is the god of the Nile River's annual flooding, which was vital for the fertility and prosperity of the land.",
+        "q2":"How can you sign up as a landowner?",
+        "a2":"First, you call the customer service. You can contact us by phone or e-mail. Then, we give you a landowner ID and a land ID. You then take them and type them in their. After that you can just type your phone number, user name, and password. Then if you have crops in your land you can choose which type you have, and if there are no crops we would recommend you the suitable crop to plant.",
+        "q3":"How can you sign up as a farmer?",
+        "a3":"First, you call the landowner you work with and he will give you the land ID. After that, you can just type your phone number, user name, password, and the land ID.",
+        "q4":"How do you use the app for pest and disease detection?",
+        "a4":"It’s simple, just open the app, click on the camera icon, take a picture, wait until it’s processed and here you go! The detection is done."
+    },
+    "Contact":{
+        "contp1":"WANT TO ASK FOR SOMETHING?",
+        "contp2":"WE ARE HERE TO HELP ..",
+        "formhed":"contactUs",
+        "name":"name",
+        "email":"email",
+        "message":"message",
+        "button":"Send"
+    }
+}
