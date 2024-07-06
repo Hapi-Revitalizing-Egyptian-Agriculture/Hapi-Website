@@ -40,10 +40,6 @@ Get to know the people and the passion behind HAPI:
 - **React.js**: For building the user interface.
 - **Axios**: For making HTTP requests and handling backend integration.
 
-##  Getting Started
-
-https://github.com/Hapi-Revitalizing-Egyptian-Agriculture/Hapi-Website/
-
 ---
 
 Thank you for checking out our project! We hope HAPI can make a significant impact in the agricultural community.
