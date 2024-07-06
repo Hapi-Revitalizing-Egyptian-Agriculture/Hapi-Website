@@ -42,4 +42,4 @@ Get to know the people and the passion behind HAPI:
 
 ---
 
-Thank you for checking out our project! We hope HAPI can make a significant impact in the agricultural community.
+We hope HAPI can make a significant impact in the agricultural community.
